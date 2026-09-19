@@ -1,0 +1,40 @@
+# -----------------------------------------
+# Core LangChain Framework & Orchestration
+# -----------------------------------------
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+
+# -----------------------------------------
+# LLM Provider Integrations
+# -----------------------------------------
+langchain-mistralai
+langchain-openai
+langchain-google-genai
+langchain-huggingface
+langchain_huggingface
+
+# -----------------------------------------
+# Vector Stores & Local ML Embeddings
+# -----------------------------------------
+chromadb
+faiss-cpu
+sentence-transformers
+
+# -----------------------------------------
+# Agent Tools & Web Search
+# -----------------------------------------
+langchainhub
+duckduckgo-search
+wikipedia
+arxiv
+
+# -----------------------------------------
+# Environment, API, & Utilities
+# -----------------------------------------
+python-dotenv
+pydantic>=2.0.0
+fastapi
+uvicorn
